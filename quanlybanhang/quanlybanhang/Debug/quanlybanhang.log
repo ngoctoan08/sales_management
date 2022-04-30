@@ -1,0 +1,9 @@
+﻿  dieukhien.cpp
+D:\my_major\oopc++\quanlybanhang\quanlybanhang\quanlybanhang\dieukhien.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+D:\my_major\oopc++\quanlybanhang\quanlybanhang\quanlybanhang\dieukhien.cpp(150,21): warning C4018: '<': signed/unsigned mismatch
+D:\my_major\oopc++\quanlybanhang\quanlybanhang\quanlybanhang\dieukhien.cpp(134,6): warning C4101: 'idkh': unreferenced local variable
+D:\my_major\oopc++\quanlybanhang\quanlybanhang\quanlybanhang\dieukhien.cpp(134,12): warning C4101: 'idmh': unreferenced local variable
+D:\my_major\oopc++\quanlybanhang\quanlybanhang\quanlybanhang\dieukhien.cpp(212,22): warning C4018: '<': signed/unsigned mismatch
+D:\my_major\oopc++\quanlybanhang\quanlybanhang\quanlybanhang\dieukhien.cpp(234,22): warning C4018: '<': signed/unsigned mismatch
+D:\my_major\oopc++\quanlybanhang\quanlybanhang\quanlybanhang\dieukhien.cpp(248,22): warning C4018: '<': signed/unsigned mismatch
+  quanlybanhang.vcxproj -> D:\my_major\oopc++\quanlybanhang\quanlybanhang\Debug\quanlybanhang.exe

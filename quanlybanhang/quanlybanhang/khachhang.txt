@@ -1,0 +1,3 @@
+100,toan dep trai,15/8/2002,nam,hai phong
+101,toan daika,15/8/2032,aam,hai phong102,toan ngoc daon,12/9/2003,nam,ha noi
+103,ninh thi thuy hang,12/8/2002,nu,bac giang
