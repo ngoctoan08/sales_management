@@ -5,7 +5,7 @@
 #include <iomanip>
 #include "mathang.h"
 #include "khachhang.h"
-#include "hoadon.h"
+#include "dsmua.h"
 #include <fstream>
 using namespace std;
 class dieukhien
@@ -13,7 +13,7 @@ class dieukhien
 private:
 	vector <mathang*> listMH;
 	vector <khachhang*> listKH;
-	vector <hoadon*> lishHD;
+	vector <dsmua*> listDS;
 	ofstream fileout;
 	ifstream filein;
 public:
@@ -21,7 +21,10 @@ public:
 	void docMH();
 	void themKH(khachhang* k);
 	void docKH();
-	void themHD(hoadon* h);
+	void themDS(dsmua* ds);
+	void xuatDS();
+	void lapHD();
+	void docDL();
 	void menu();
 	void start();
 };

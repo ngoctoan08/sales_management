@@ -45,7 +45,7 @@ void khachhang::xuat() {
 	cout << "\n\t\t" << left << setw(10) << maKH << setw(30) << hoten;
 	ngaysinh.xuat();
 	cout << left << setw(20) << gioitinh << setw(20) << diachi << endl;
-	cout << "\n\t\t" << "___________________________________________________\n";
+	cout << "\n\t\t" << "________________________________________________________________________________________________________\n";
 }
 
 void khachhang::ghiKH(ofstream &fileout) {

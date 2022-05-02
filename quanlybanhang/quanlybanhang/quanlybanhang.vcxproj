@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClInclude Include="date.h" />
     <ClInclude Include="dieukhien.h" />
+    <ClInclude Include="dsmua.h" />
     <ClInclude Include="hoadon.h" />
     <ClInclude Include="khachhang.h" />
     <ClInclude Include="mathang.h" />
@@ -148,6 +149,7 @@
   <ItemGroup>
     <ClCompile Include="date.cpp" />
     <ClCompile Include="dieukhien.cpp" />
+    <ClCompile Include="dsmua.cpp" />
     <ClCompile Include="hoadon.cpp" />
     <ClCompile Include="khachhang.cpp" />
     <ClCompile Include="main.cpp" />

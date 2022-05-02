@@ -1,2 +1,5 @@
-1538,dien thoai,2000
-1584,laptop,3000
+685,laptop,1000
+731,tivi,1500
+760,dieu hoa,900
+783,may giat,800
+17543,kinh ram,10
